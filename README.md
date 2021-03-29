@@ -1,11 +1,9 @@
 Sanity + React Native app example
 ===
 
-This is an example [Sanity](https://www.sanity.io) backed [React Native](https://facebook.github.io/react-native/) app for the movies database dataset.
+This is an example [Socket io](https://socket.io) backed [React Native](https://reactnative.dev) and [Twilio] for communication engine (https://www.twilio.com)
 
 ## Setup
-
-This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
 
